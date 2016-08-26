@@ -5,3 +5,13 @@ h1 {
   text-align: center;
   color: red;
 }
+.pp01 {
+  color: blue;
+  font-size: 23px;
+  text-align: center;
+}
+.pp01 p {
+  text-align: left;
+  font-weight: bold;
+  font-style: italic;
+}
