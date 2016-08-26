@@ -6,12 +6,16 @@ h1 {
   color: red;
 }
 .pp01 {
-  color: blue;
+  color: green;
   font-size: 23px;
   text-align: center;
 }
 .pp01 p {
   text-align: left;
   font-weight: bold;
+  font-style: italic;
+}
+.pp02 p {
+  text-align: center;
   font-style: italic;
 }
